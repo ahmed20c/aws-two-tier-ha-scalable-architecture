@@ -30,4 +30,4 @@ This project implements a production-grade, two-tier web application architectur
 
 ## Documentation
 Full step-by-step documentation with 48 implementation screenshots is available in:  
-`Two_Tier_HA_Scalable_AWS_Architecture_Documentation.pdf`
+`Two-Tier Highly Available and Highly Scalable Architecture on AWS - Documentation.pdf`
